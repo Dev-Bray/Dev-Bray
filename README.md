@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dev-Bray
-- 👀 I’m interested in Data Analysis, Machine Learning  and Sotware development
+- 👀 I’m interested in Data Analysis, Machine Learning  and Software development
 - 🌱 I’m currently learning at the National University of Science and Technology
 - 💞️ I’m looking to collaborate on any projects that encompass any of the above stated interests and more.
 
