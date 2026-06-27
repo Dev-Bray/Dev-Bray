@@ -11,18 +11,14 @@
   </a>
 </p>
 
-<!-- Social Badges Grid -->
+<!-- Reliable Secondary Header Block -->
 <p align="center">
-  <a href="https://bray-personal-site.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://www.linkedin.com/in/brandon-ngwenya-633a1113a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/bongxni_ngwenya?igsh=ZjhveG1naWo1anlm&utm_source=qr" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+  <h3>✨ Solutions Architect & Software Engineer ✨</h3>
+  <p align="center">Building scalable full-stack ecosystems with Flutter, React, TypeScript, and Supabase.</p>
 </p>
+
+<!-- Social Badges Grid (Kept on a single line to prevent underline artifacts) -->
+<p align="center"><a href="https://bray-personal-site.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" /></a><a href="https://www.linkedin.com/in/brandon-ngwenya-633a1113a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><a href="https://www.instagram.com/bongxni_ngwenya?igsh=ZjhveG1naWo1anlm&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a></p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
