@@ -1,11 +1,14 @@
 <!-- =========================
-     Animated Header
+     Animated Header (Theme Adaptive)
 ========================= -->
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=100&lines=Brandon+Bongani+Ngwenya" 
-    alt="Brandon Bongani Ngwenya" 
-  />
+  <a href="https://git.io/typing-svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=100&lines=Brandon+Bongani+Ngwenya">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=000000&center=true&vCenter=true&width=900&height=100&lines=Brandon+Bongani+Ngwenya">
+      <img alt="Brandon Bongani Ngwenya Animated Header" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=100&lines=Brandon+Bongani+Ngwenya">
+    </picture>
+  </a>
 </p>
 
 <!-- Animated Typing SVG -->
