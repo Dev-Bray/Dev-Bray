@@ -1,13 +1,6 @@
 <!-- =========================
      Animated Header
 ========================= -->
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Brandon%20Bongani%20Ngwenya&fontAlign=50&fontAlignY=35&desc=Solutions%20Architect%20%26%20Software%20Engineer&descAlign=50&descAlignY=55"
-    alt="Brandon Bongani Ngwenya Header"
-  />
-</p>
-
 <!-- Animated Typing SVG -->
 <p align="center">
   <img
