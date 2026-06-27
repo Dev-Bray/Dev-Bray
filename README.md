@@ -1,6 +1,13 @@
 <!-- =========================
      Animated Header
 ========================= -->
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=100&lines=Brandon+Bongani+Ngwenya" 
+    alt="Brandon Bongani Ngwenya" 
+  />
+</p>
+
 <!-- Animated Typing SVG -->
 <p align="center">
   <img
@@ -10,7 +17,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/brandon-ngwenya-633a1113a/"><img src="https://img.shields.io/badge/LinkedIn-Brandon%20Ngwenya-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://bray-personal-site.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Website-bray--personal--site.vercel.app-black?style=for-the-badge&logo=vercel" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/brandon-ngwenya-633a1113a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Brandon%20Ngwenya-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
 </p>
 
 <br/>
