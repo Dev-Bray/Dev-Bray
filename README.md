@@ -1,6 +1,3 @@
-<!-- ==========================================================
-     ANIMATED HEADER (Theme-Adaptive & Fixed Width)
-========================================================== -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <picture>
@@ -11,22 +8,17 @@
   </a>
 </p>
 
-<!-- Reliable Secondary Header Block -->
 <p align="center">
   <h3>✨ Solutions Architect & Software Engineer ✨</h3>
   <p align="center">Building scalable full-stack ecosystems with Flutter, React, TypeScript, and Supabase.</p>
 </p>
 
-<!-- Social Badges Grid (Kept on a single line to prevent underline artifacts) -->
 <p align="center"><a href="https://bray-personal-site.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" /></a><a href="https://www.linkedin.com/in/brandon-ngwenya-633a1113a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><a href="https://www.instagram.com/bongxni_ngwenya?igsh=ZjhveG1naWo1anlm&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a></p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 </p>
 
-<!-- ==========================================================
-     ABOUT ME SECTION
-========================================================== -->
 ## 🧠 About Me
 
 <blockquote>
@@ -56,40 +48,50 @@
 
 <br/>
 
-<!-- ==========================================================
-     TECH STACK
-========================================================== -->
 ## 🧱 Technical Toolbox
 
 <details open>
-  <summary><strong>📐 Languages & Frontend Development</strong></summary>
+  <summary><strong>🎨 UI/UX & Product Design</strong></summary>
   <br/>
   <p>
-    <img src="https://skillicons.dev/icons?i=typescript,javascript,python,java,react,html,css" alt="Frontend & Languages" />
+    <img src="https://skillicons.dev/icons?i=figma" alt="Design Tools" />
   </p>
 </details>
 
 <details open>
-  <summary><strong>📱 Cross-Platform Mobile Engineering</strong></summary>
+  <summary><strong>🌐 Frontend Engineering (Client-Side & UI)</strong></summary>
   <br/>
   <p>
-    <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Mobile Tools" />
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,react,html,css" alt="Frontend Tools" />
   </p>
 </details>
 
 <details open>
-  <summary><strong>⚡ Cloud, Database & Infrastructure</strong></summary>
+  <summary><strong>📱 Mobile Development (Cross-Platform & Native)</strong></summary>
   <br/>
   <p>
-    <img src="https://skillicons.dev/icons?i=supabase,vercel,nodejs" alt="Backend Infrastructure" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin" alt="Mobile Tools" />
+  </p>
+</details>
+
+<details open>
+  <summary><strong>⚙️ Backend & Systems (Runtime & Logic)</strong></summary>
+  <br/>
+  <p>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,java" alt="Backend Languages and Runtimes" />
+  </p>
+</details>
+
+<details open>
+  <summary><strong>⚡ Cloud, Database & Hosting (Infrastructure)</strong></summary>
+  <br/>
+  <p>
+    <img src="https://skillicons.dev/icons?i=supabase,vercel,aws,docker" alt="Cloud and Infrastructure" />
   </p>
 </details>
 
 <br/>
 
-<!-- ==========================================================
-     PERFORMANCE METRICS
-========================================================== -->
 ## 📊 Activity Metrics
 
 <p align="center">
