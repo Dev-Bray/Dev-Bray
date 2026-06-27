@@ -19,6 +19,7 @@
 <p align="center">
   <a href="https://bray-personal-site.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Website-bray--personal--site.vercel.app-black?style=for-the-badge&logo=vercel" alt="Website" /></a>
   <a href="https://www.linkedin.com/in/brandon-ngwenya-633a1113a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Brandon%20Ngwenya-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/bongxni_ngwenya?igsh=ZjhveG1naWo1anlm&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/Instagram-@bongxni__ngwenya-E4405F?style=for-the-badge&logo=instagram" alt="Instagram" /></a>
 </p>
 
 <br/>
