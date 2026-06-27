@@ -11,12 +11,6 @@
   </a>
 </p>
 
-<!-- Reliable Secondary Header Block -->
-<p align="center">
-  <h3>✨ Solutions Architect & Software Engineer ✨</h3>
-  <p align="center">Building scalable full-stack ecosystems with Flutter, React, TypeScript, and Supabase.</p>
-</p>
-
 <!-- Social Badges Grid -->
 <p align="center">
   <a href="https://bray-personal-site.vercel.app" target="_blank">
